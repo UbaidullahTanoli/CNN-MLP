@@ -138,7 +138,7 @@ The CNN+MLP model seems to neither underfit nor overfit despite being trained on
 - Learning Rate Schedules: Uses ReduceLROnPlateau to reduce learning rates when performance plateaus
 - Data Augmentation: Applies various transformations to increase effective dataset size
 
-  | Metric    | Best Value | Best Epoch | Last Epoch Value | Last Epoch |
+| Metric    | Best Value | Best Epoch | Last Epoch Value | Last Epoch |
 |-----------|-----------|------------|------------------|------------|
 | Accuracy  | 0.6968    | 21         | 0.6854           | 40         |
 | F1-Score  | 0.7666    | 22         | 0.7293           | 40         |
