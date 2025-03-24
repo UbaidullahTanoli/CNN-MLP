@@ -125,7 +125,7 @@ Transfer Learning is used to avoid overfitting by freezing the backbone of the C
 
 ## Conclusion
 
-![Training Metrics]("MLP_CNN_training_metrics.png")
+![Training Metrics](MLP_CNN_training_metrics.png)
 
 The CNN+MLP model seems to neither underfit nor overfit despite being trained on just ~7500 images with ~1-2M parameters due to various techniques like the following:
 
