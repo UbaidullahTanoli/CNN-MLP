@@ -1,6 +1,6 @@
 # CNN-MLP
 
-This project focuses on the predictive power of a CNN combined with a MLP on Medical (Chest X-ray images) dataset to accurately classify an image as normal or not. This is part of a larger project which combines CNN and LLM to learn from images and the corresponding medical reports of the same patient to make highly accurate binary classification. In this project, only the classification layers (MLP) and the last layer of CNN were trained. This project serves as a baseline for comparing CNN+LLM+MLP.
+This project focuses on the predictive power of a CNN combined with a MLP on Medical (Chest X-ray images) dataset to accurately classify an image as normal or not. This is part of a larger project which combines CNN and LLM to learn from images and the corresponding medical reports of the same patient to make highly accurate binary classification. In this project, only the classification layers (MLP) and the last layer of CNN were trained. This project serves as a baseline for comparing CNN+LLM+MLP. 
 
 ## Data
 
